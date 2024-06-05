@@ -81,7 +81,7 @@ verificando a incidência de ID's
 #### Então aqui apagamos a linha repetida 
 
 2. Outra forma seria testar essas opções:
-
+![OutraFormaCasoOErroNãoSejaDuplicadas](https://github.com/vitorguimaraess/PowerBI_DSA/assets/110196971/4bcddc49-d0b5-434b-ad7d-5e0f94e27344)
 
 ### *Cardinalidades*
 https://go.microsoft.com/fwlink/?linkid=2011502
