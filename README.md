@@ -74,9 +74,9 @@ Observe os relacionamentos entre os dados e considere desmembrar uma única plan
 Faça ajustes e correções nos dados para estabelecer os relacionamentos.
 ### Forma de realizar ajustes:
 verificando a incidência de ID's
-
+1. Passo Agrupe a coluna e traga uma contagem de quantas vezes aquela linha aparece na coluna
 ![Passo1VerificandoQTDdeIDporRelacionamento](https://github.com/vitorguimaraess/PowerBI_DSA/assets/110196971/c9d441a6-eb44-4d22-8d69-f6f40f625dea)
-
+![Passo2 Agrupe, para contar a qtd de vezs q esses IDs aparecem](https://github.com/vitorguimaraess/PowerBI_DSA/assets/110196971/4bb170e0-de1c-4562-968a-ce53794ed05f)
 
 ### *Cardinalidades*
 https://go.microsoft.com/fwlink/?linkid=2011502
