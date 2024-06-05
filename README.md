@@ -72,6 +72,10 @@ Assim estabeleça o relacionamento no PBI (ele tentará fazer isso de forma auto
 Observe os relacionamentos entre os dados e considere desmembrar uma única planilha ou tabela em diferentes partes para construir o relacionamento adequado. (Planilha com 50, 100 colunas, que vieram de várias), considere quebra-lá de volta em várias.
 
 Faça ajustes e correções nos dados para estabelecer os relacionamentos.
+### Forma de realizar ajustes:
+verificando a incidência de ID's
+
+![Passo1VerificandoQTDdeIDporRelacionamento](https://github.com/vitorguimaraess/PowerBI_DSA/assets/110196971/c9d441a6-eb44-4d22-8d69-f6f40f625dea)
 
 
 ### *Cardinalidades*
