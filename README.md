@@ -77,6 +77,11 @@ verificando a incidência de ID's
 1. Passo Agrupe a coluna e traga uma contagem de quantas vezes aquela linha aparece na coluna
 ![Passo1VerificandoQTDdeIDporRelacionamento](https://github.com/vitorguimaraess/PowerBI_DSA/assets/110196971/c9d441a6-eb44-4d22-8d69-f6f40f625dea)
 ![Passo2 Agrupe, para contar a qtd de vezs q esses IDs aparecem](https://github.com/vitorguimaraess/PowerBI_DSA/assets/110196971/4bb170e0-de1c-4562-968a-ce53794ed05f)
+![Veja](https://github.com/vitorguimaraess/PowerBI_DSA/assets/110196971/e6b9090a-1038-4c78-af1a-8a94173446f0)
+#### Então aqui apagamos a linha repetida 
+
+2. Outra forma seria testar essas opções:
+
 
 ### *Cardinalidades*
 https://go.microsoft.com/fwlink/?linkid=2011502
